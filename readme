@@ -1,3 +1,11 @@
 RAGBRAI Guess the Route Contest!
 
 This project is for data gathering and analysis to predict the next eight overnight towns for RAGBRAI. Each year they hold the contest and winners get some merch + bragging rights.
+
+(Route Requirements)[https://ragbrai.com/hosttownapplication/]
+- Can we get 20,000 cyclists and their support crews from one town to the next town safely?
+- Ideally, paved roads that have a traffic count of less than 2,500 cars per day and a truck count of less than 200.
+- 11 – 15 miles between pass-through towns.
+- 60 – 70 miles between overnight towns. 
+
+Iowa map boundary data comes from Natural Earth: https://www.naturalearthdata.com/downloads/110m-cultural-vectors/110m-admin-1-states-provinces/
