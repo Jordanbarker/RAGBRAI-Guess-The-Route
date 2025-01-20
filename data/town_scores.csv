@@ -1,0 +1,175 @@
+day,town,score
+Start,Sioux City,22
+Start,Glenwood,0
+Start,Council Bluffs,92
+Start,Onawa,88
+Start,Missouri Valley,128
+Start,Sioux Center,96
+Start,Hawarden,135
+Start,Rock Rapids,88
+Start,Le Mars,8
+Start,Sergeant Bluff,5
+Start,Sidney,48
+Start,Akron,42
+Start,Rock Valley,10
+Start,Orange City,7
+Sunday,Storm Lake,14
+Sunday,Atlantic,55
+Sunday,Cherokee,134
+Sunday,Red Oak,0
+Sunday,Spencer,78
+Sunday,Harlan,122
+Sunday,Ida Grove,16
+Sunday,Shenandoah,64
+Sunday,Sibley,79
+Sunday,Denison,16
+Sunday,Sheldon,53
+Sunday,Lake View,56
+Sunday,Mapleton,43
+Sunday,Clarinda,35
+Sunday,Okoboji,10
+Sunday,Sac City,3
+Monday,Fort Dodge,33
+Monday,Carroll,11
+Monday,Algona,56
+Monday,Emmetsburg,80
+Monday,Estherville,98
+Monday,Creston,41
+Monday,Rockwell City,73
+Monday,Jefferson,16
+Monday,Guthrie Center,115
+Monday,Audubon,50
+Monday,Humboldt,48
+Monday,Atlantic,0
+Monday,Lake View,33
+Monday,Winterset,14
+Monday,Bedford,59
+Monday,Greenfield,42
+Monday,Laurens,47
+Monday,Denison,23
+Monday,Perry,11
+Monday,Storm Lake,37
+Monday,Lake City,43
+Monday,Harlan,48
+Monday,Pocahontas,2
+Tuesday,Ames,11
+Tuesday,Iowa Falls,24
+Tuesday,Boone,104
+Tuesday,Clear Lake,36
+Tuesday,Perry,155
+Tuesday,Forest City,51
+Tuesday,Algona,53
+Tuesday,Jefferson,98
+Tuesday,Indianola,14
+Tuesday,Hampton,48
+Tuesday,Osceola,59
+Tuesday,Des Moines,31
+Tuesday,Emmetsburg,2
+Tuesday,Leon,8
+Tuesday,Eldora,9
+Tuesday,Webster City,12
+Tuesday,Waukee,18
+Tuesday,Atlantic,23
+Tuesday,Ankeny,24
+Tuesday,Knoxville,33
+Tuesday,Lake Mills,28
+Tuesday,Clarion,31
+Tuesday,Johnston,50
+Tuesday,Fort Dodge,37
+Tuesday,Humboldt,39
+Tuesday,Adel,40
+Tuesday,Greenfield,43
+Tuesday,Story City,45
+Tuesday,Winterset,0
+Wednesday,Charles City,78
+Wednesday,Des Moines,8
+Wednesday,Marshalltown,96
+Wednesday,Newton,31
+Wednesday,Mason City,10
+Wednesday,Tama,83
+Wednesday,Knoxville,0
+Wednesday,Eldora,73
+Wednesday,Chariton,42
+Wednesday,Cedar Falls,25
+Wednesday,Centerville,14
+Wednesday,Osage,31
+Wednesday,Perry,23
+Wednesday,Northwood,19
+Wednesday,Altoona,13
+Wednesday,Waverly,25
+Wednesday,Oskaloosa,21
+Wednesday,Forest City,37
+Wednesday,Grinnell,33
+Wednesday,Oelwein,34
+Wednesday,Story City,35
+Wednesday,Pella,40
+Wednesday,Clarion,41
+Wednesday,Leon,43
+Wednesday,Webster City,44
+Wednesday,Vinton,46
+Wednesday,Clear Lake,47
+Wednesday,Nevada,48
+Wednesday,Waterloo,3
+Thursday,Ottumwa,0
+Thursday,Oskaloosa,57
+Thursday,Sigourney,31
+Thursday,Grinnell,67
+Thursday,Waterloo,72
+Thursday,Cresco,36
+Thursday,Bloomfield,59
+Thursday,Cedar Rapids,33
+Thursday,Cedar Falls,73
+Thursday,Hiawatha,25
+Thursday,Independence,48
+Thursday,Waverly,28
+Thursday,Fairfield,14
+Thursday,Decorah,70
+Thursday,Marengo,18
+Thursday,North Liberty,16
+Thursday,Oelwein,22
+Thursday,Anamosa,3
+Thursday,Charles City,2
+Thursday,Williamsburg,51
+Thursday,Marion,30
+Thursday,Amana,33
+Thursday,Osage,37
+Thursday,Belle Plaine,38
+Thursday,Grundy Center,41
+Thursday,Centerville,43
+Thursday,Mount Vernon,46
+Thursday,New Hampton,47
+Thursday,Tama,1
+Friday,Coralville,14
+Friday,Mount Pleasant,0
+Friday,Washington,64
+Friday,Manchester,112
+Friday,Maquoketa,103
+Friday,Monticello,135
+Friday,West Union,10
+Friday,Fairfield,57
+Friday,Anamosa,62
+Friday,Iowa City,16
+Friday,Tipton,45
+Friday,Dyersville,48
+Friday,Burlington,5
+Friday,Waukon,7
+Friday,Independence,10
+Friday,Fayette,28
+Friday,Davenport,51
+Friday,Keosauqua,43
+Friday,Elkader,44
+Friday,Wapello,45
+Friday,Decorah,47
+Friday,DeWitt,3
+End,Muscatine,117
+End,Clinton,44
+End,Burlington,0
+End,Fort Madison,122
+End,Guttenberg,111
+End,Davenport,11
+End,Bellevue,190
+End,Dubuque,112
+End,Lansing,10
+End,Keokuk,25
+End,Sabula,26
+End,Le Claire,16
